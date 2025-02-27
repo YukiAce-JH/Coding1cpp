@@ -1,0 +1,3 @@
+﻿  LoopsandLists.cpp
+C:\Users\tooka\Github\Coding1cpp\coding1week3\LoopsandLists.cpp(179,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  coding1week3.vcxproj -> C:\Users\tooka\Github\Coding1cpp\coding1week3\x64\Debug\coding1week3.exe
