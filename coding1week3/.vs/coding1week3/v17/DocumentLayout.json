@@ -3,15 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14DC0ADA-7C50-415A-A092-C5A69C4F1CA0}|coding1week3.vcxproj|C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\LoopsandLists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{14DC0ADA-7C50-415A-A092-C5A69C4F1CA0}|coding1week3.vcxproj|solutionrelative:LoopsandLists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14DC0ADA-7C50-415A-A092-C5A69C4F1CA0}|coding1week3.vcxproj|C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\coding1week3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{14DC0ADA-7C50-415A-A092-C5A69C4F1CA0}|coding1week3.vcxproj|solutionrelative:coding1week3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\string||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+      "AbsoluteMoniker": "D:0:0:{14DC0ADA-7C50-415A-A092-C5A69C4F1CA0}|coding1week3.vcxproj|C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\Recap day.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14DC0ADA-7C50-415A-A092-C5A69C4F1CA0}|coding1week3.vcxproj|solutionrelative:Recap day.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,45 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "string",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\string",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\string",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\string",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\string",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAQwF8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-27T04:24:06.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "coding1week3.cpp",
-              "DocumentMoniker": "C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\coding1week3.cpp",
-              "RelativeDocumentMoniker": "coding1week3.cpp",
-              "ToolTip": "C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\coding1week3.cpp",
-              "RelativeToolTip": "coding1week3.cpp",
-              "ViewState": "AgIAAGoAAAAA6NpuSP/xvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-27T04:19:39.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LoopsandLists.cpp",
-              "DocumentMoniker": "C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\LoopsandLists.cpp",
-              "RelativeDocumentMoniker": "LoopsandLists.cpp",
-              "ToolTip": "C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\LoopsandLists.cpp",
-              "RelativeToolTip": "LoopsandLists.cpp",
-              "ViewState": "AgIAALMAAABgV2HRGLsjwMkAAAA0AAAAAAAAAA==",
+              "Title": "Recap day.cpp",
+              "DocumentMoniker": "C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\Recap day.cpp",
+              "RelativeDocumentMoniker": "Recap day.cpp",
+              "ToolTip": "C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\Recap day.cpp",
+              "RelativeToolTip": "Recap day.cpp",
+              "ViewState": "AgIAAEYAAAAApp9OC0cYwFsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-25T19:05:56.694Z",
+              "WhenOpened": "2025-03-06T15:36:59.994Z",
               "EditorCaption": ""
             }
           ]

@@ -1,3 +1,5 @@
-﻿  LoopsandLists.cpp
-C:\Users\tooka\Github\Coding1cpp\coding1week3\LoopsandLists.cpp(179,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+﻿  Recap day.cpp
+C:\Users\tooka\Github\Coding1cpp\coding1week3\Recap day.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\tooka\Github\Coding1cpp\coding1week3\Recap day.cpp(91,13): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\tooka\Github\Coding1cpp\coding1week3\Recap day.cpp(91,31): warning C4834: discarding return value of function with [[nodiscard]] attribute
   coding1week3.vcxproj -> C:\Users\tooka\Github\Coding1cpp\coding1week3\x64\Debug\coding1week3.exe
