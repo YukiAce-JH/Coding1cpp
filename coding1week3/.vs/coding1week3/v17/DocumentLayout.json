@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14DC0ADA-7C50-415A-A092-C5A69C4F1CA0}|coding1week3.vcxproj|C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\Recap day.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{14DC0ADA-7C50-415A-A092-C5A69C4F1CA0}|coding1week3.vcxproj|solutionrelative:Recap day.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{14DC0ADA-7C50-415A-A092-C5A69C4F1CA0}|coding1week3.vcxproj|C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\12classeshw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14DC0ADA-7C50-415A-A092-C5A69C4F1CA0}|coding1week3.vcxproj|solutionrelative:12classeshw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC0ADA-7C50-415A-A092-C5A69C4F1CA0}|coding1week3.vcxproj|C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\classes not structs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14DC0ADA-7C50-415A-A092-C5A69C4F1CA0}|coding1week3.vcxproj|solutionrelative:classes not structs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC0ADA-7C50-415A-A092-C5A69C4F1CA0}|coding1week3.vcxproj|C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\12 classes inC\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14DC0ADA-7C50-415A-A092-C5A69C4F1CA0}|coding1week3.vcxproj|solutionrelative:12 classes inC\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Recap day.cpp",
-              "DocumentMoniker": "C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\Recap day.cpp",
-              "RelativeDocumentMoniker": "Recap day.cpp",
-              "ToolTip": "C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\Recap day.cpp",
-              "RelativeToolTip": "Recap day.cpp",
-              "ViewState": "AgIAAEYAAAAApp9OC0cYwFsAAAAAAAAAAAAAAA==",
+              "Title": "12classeshw.cpp",
+              "DocumentMoniker": "C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\12classeshw.cpp",
+              "RelativeDocumentMoniker": "12classeshw.cpp",
+              "ToolTip": "C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\12classeshw.cpp",
+              "RelativeToolTip": "12classeshw.cpp",
+              "ViewState": "AgIAAFYAAACAYbI0VzItwGUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-06T15:36:59.994Z",
+              "WhenOpened": "2025-04-17T01:15:31.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "classes not structs.cpp",
+              "DocumentMoniker": "C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\classes not structs.cpp",
+              "RelativeDocumentMoniker": "classes not structs.cpp",
+              "ToolTip": "C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\classes not structs.cpp",
+              "RelativeToolTip": "classes not structs.cpp",
+              "ViewState": "AgIAACcAAAAA2HRRytH+vzAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-16T23:49:40.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "12 classes inC\u002B\u002B.cpp",
+              "DocumentMoniker": "C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\12 classes inC\u002B\u002B.cpp",
+              "RelativeDocumentMoniker": "12 classes inC\u002B\u002B.cpp",
+              "ToolTip": "C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\12 classes inC\u002B\u002B.cpp",
+              "RelativeToolTip": "12 classes inC\u002B\u002B.cpp",
+              "ViewState": "AgIAAF4AAAAAlx32zZMqwGoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-16T22:22:18.741Z",
               "EditorCaption": ""
             }
           ]
