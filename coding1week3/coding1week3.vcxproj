@@ -130,9 +130,17 @@
     <ClCompile Include="12 classes inC++.cpp" />
     <ClCompile Include="12classeshw.cpp" />
     <ClCompile Include="classes not structs.cpp" />
+    <ClCompile Include="coding 1b week 13.cpp" />
     <ClCompile Include="coding1week3.cpp" />
+    <ClCompile Include="Filez.cpp" />
+    <ClCompile Include="filezships.cpp" />
     <ClCompile Include="Functions.cpp" />
     <ClCompile Include="getters and setters.cpp" />
+    <ClCompile Include="Ship.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Filez.h" />
+    <ClInclude Include="Ship.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

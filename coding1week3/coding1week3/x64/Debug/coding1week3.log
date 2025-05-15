@@ -1,2 +1,22 @@
-﻿  12classeshw.cpp
-  coding1week3.vcxproj -> C:\Users\tooka\Github\Coding1cpp\coding1week3\x64\Debug\coding1week3.exe
+﻿  Filez.cpp
+  Ship.cpp
+  filezships.cpp
+C:\Users\tooka\Github\Coding1cpp\coding1week3\Ship.h(6,6): error C2182: 'writeShipToFile': this use of 'void' is not valid
+  (compiling source file 'Ship.cpp')
+  
+C:\Users\tooka\Github\Coding1cpp\coding1week3\Ship.h(6,22): error C2065: 'ship': undeclared identifier
+  (compiling source file 'Ship.cpp')
+  
+C:\Users\tooka\Github\Coding1cpp\coding1week3\Ship.h(6,27): error C2146: syntax error: missing ')' before identifier 'givenShip'
+  (compiling source file 'Ship.cpp')
+  
+C:\Users\tooka\Github\Coding1cpp\coding1week3\Ship.h(6,6): error C2182: 'writeShipToFile': this use of 'void' is not valid
+  (compiling source file 'filezships.cpp')
+  
+C:\Users\tooka\Github\Coding1cpp\coding1week3\Ship.h(6,22): error C2065: 'ship': undeclared identifier
+  (compiling source file 'filezships.cpp')
+  
+C:\Users\tooka\Github\Coding1cpp\coding1week3\Ship.h(6,27): error C2146: syntax error: missing ')' before identifier 'givenShip'
+  (compiling source file 'filezships.cpp')
+  
+  Generating Code...

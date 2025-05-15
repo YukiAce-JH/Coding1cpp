@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14DC0ADA-7C50-415A-A092-C5A69C4F1CA0}|coding1week3.vcxproj|C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\12classeshw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{14DC0ADA-7C50-415A-A092-C5A69C4F1CA0}|coding1week3.vcxproj|solutionrelative:12classeshw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{14DC0ADA-7C50-415A-A092-C5A69C4F1CA0}|coding1week3.vcxproj|C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\Ship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14DC0ADA-7C50-415A-A092-C5A69C4F1CA0}|coding1week3.vcxproj|solutionrelative:Ship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14DC0ADA-7C50-415A-A092-C5A69C4F1CA0}|coding1week3.vcxproj|C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\classes not structs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{14DC0ADA-7C50-415A-A092-C5A69C4F1CA0}|coding1week3.vcxproj|solutionrelative:classes not structs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{14DC0ADA-7C50-415A-A092-C5A69C4F1CA0}|coding1week3.vcxproj|C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\Filez.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14DC0ADA-7C50-415A-A092-C5A69C4F1CA0}|coding1week3.vcxproj|solutionrelative:Filez.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14DC0ADA-7C50-415A-A092-C5A69C4F1CA0}|coding1week3.vcxproj|C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\12 classes inC\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{14DC0ADA-7C50-415A-A092-C5A69C4F1CA0}|coding1week3.vcxproj|solutionrelative:12 classes inC\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{14DC0ADA-7C50-415A-A092-C5A69C4F1CA0}|coding1week3.vcxproj|C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\Filez.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14DC0ADA-7C50-415A-A092-C5A69C4F1CA0}|coding1week3.vcxproj|solutionrelative:Filez.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC0ADA-7C50-415A-A092-C5A69C4F1CA0}|coding1week3.vcxproj|C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\Ship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14DC0ADA-7C50-415A-A092-C5A69C4F1CA0}|coding1week3.vcxproj|solutionrelative:Ship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14DC0ADA-7C50-415A-A092-C5A69C4F1CA0}|coding1week3.vcxproj|C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\filezships.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14DC0ADA-7C50-415A-A092-C5A69C4F1CA0}|coding1week3.vcxproj|solutionrelative:filezships.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +35,67 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "12classeshw.cpp",
-              "DocumentMoniker": "C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\12classeshw.cpp",
-              "RelativeDocumentMoniker": "12classeshw.cpp",
-              "ToolTip": "C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\12classeshw.cpp",
-              "RelativeToolTip": "12classeshw.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-17T01:15:31.271Z",
+              "Title": "Ship.h",
+              "DocumentMoniker": "C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\Ship.h",
+              "RelativeDocumentMoniker": "Ship.h",
+              "ToolTip": "C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\Ship.h*",
+              "RelativeToolTip": "Ship.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-15T16:06:00.59Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "classes not structs.cpp",
-              "DocumentMoniker": "C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\classes not structs.cpp",
-              "RelativeDocumentMoniker": "classes not structs.cpp",
-              "ToolTip": "C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\classes not structs.cpp",
-              "RelativeToolTip": "classes not structs.cpp",
-              "ViewState": "AgIAACcAAAAA2HRRytH+vzAAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Ship.cpp",
+              "DocumentMoniker": "C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\Ship.cpp",
+              "RelativeDocumentMoniker": "Ship.cpp",
+              "ToolTip": "C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\Ship.cpp*",
+              "RelativeToolTip": "Ship.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-16T23:49:40.279Z",
+              "WhenOpened": "2025-05-15T16:06:35.657Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "12 classes inC\u002B\u002B.cpp",
-              "DocumentMoniker": "C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\12 classes inC\u002B\u002B.cpp",
-              "RelativeDocumentMoniker": "12 classes inC\u002B\u002B.cpp",
-              "ToolTip": "C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\12 classes inC\u002B\u002B.cpp",
-              "RelativeToolTip": "12 classes inC\u002B\u002B.cpp",
-              "ViewState": "AgIAAF4AAAAAlx32zZMqwGoAAAABAAAAAAAAAA==",
+              "Title": "Filez.cpp",
+              "DocumentMoniker": "C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\Filez.cpp",
+              "RelativeDocumentMoniker": "Filez.cpp",
+              "ToolTip": "C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\Filez.cpp",
+              "RelativeToolTip": "Filez.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-16T22:22:18.741Z",
+              "WhenOpened": "2025-05-15T15:54:00.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Filez.h",
+              "DocumentMoniker": "C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\Filez.h",
+              "RelativeDocumentMoniker": "Filez.h",
+              "ToolTip": "C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\Filez.h*",
+              "RelativeToolTip": "Filez.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-15T15:49:59.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "filezships.cpp",
+              "DocumentMoniker": "C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\filezships.cpp",
+              "RelativeDocumentMoniker": "filezships.cpp",
+              "ToolTip": "C:\\Users\\tooka\\Github\\Coding1cpp\\coding1week3\\filezships.cpp*",
+              "RelativeToolTip": "filezships.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-01T15:00:51.097Z",
               "EditorCaption": ""
             }
           ]
